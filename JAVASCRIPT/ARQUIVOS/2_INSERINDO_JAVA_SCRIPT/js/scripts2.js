@@ -1,0 +1,1 @@
+console.log("Este é o script 2 importado ao fim do body, como é comum mente utilzado");

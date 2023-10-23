@@ -1,0 +1,1 @@
+console.log("Este é o Script do Header, adicionado com a tag script =src, que cria uma ponte com o arquivo javascript");
